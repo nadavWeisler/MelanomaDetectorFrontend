@@ -1,3 +1,9 @@
+/node_modules
+/www
+/.vscode
+/platforms
+/plugins
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

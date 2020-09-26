@@ -1,6 +1,6 @@
 {
-  "name": "com.codingwolves.captureitapp",
-  "displayName": "CaptureItApp",
+  "name": "com.melanomadetector",
+  "displayName": "Melanoma Detector",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,12 +45,12 @@
       "last 1 safari version"
     ]
   },
-  "description": "CaptureItApp description",
+  "description": "Melanoma Detector description",
   "main": "index.js",
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "CodingWolves",
+  "author": "MelanomaDetectors",
   "license": "Apache-2.0",
   "devDependencies": {
     "cordova-android": "^9.0.0",
